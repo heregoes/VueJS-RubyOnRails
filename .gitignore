@@ -17,4 +17,6 @@
 !/log/.keep
 !/tmp/.keep
 
+/recordstore-front/node_modules
+
 .byebug_history
